@@ -36,7 +36,7 @@
     <java_source_version>1.8</java_source_version>
     <java_target_version>1.8</java_target_version>
     <compiler_version>1.8</compiler_version>
-    <jackson.version>2.11.2</jackson.version>
+    <jackson.version>2.15.3</jackson.version>
   </properties>
 
   <dependencies>
